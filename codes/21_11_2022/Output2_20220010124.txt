@@ -1,0 +1,19 @@
+Enter 1st number:
+4
+Enter 2nd number:
+2
+
+Addition of 4 and 2:
+6
+
+Subration of 4 and 2:
+2
+
+Multiplication of 4 and 2:
+8
+
+Division of 4 and 2:
+2
+
+Modulus (remainder) when 4 divided by 2:
+0

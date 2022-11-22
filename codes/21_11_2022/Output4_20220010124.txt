@@ -1,0 +1,6 @@
+Enter the 1st number of your arthemetic series:
+10
+Enter the 2nd number of your arthemetic series:
+20
+The sum of the first 100 numbers of the Arthemetic Progression series who's first two number are 10.000000 and 20.000000:
+50500.000000

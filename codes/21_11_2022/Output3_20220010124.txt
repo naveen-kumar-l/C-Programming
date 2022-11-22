@@ -1,0 +1,6 @@
+Enter the base of your right angle triangle:
+3
+Enter the height of your right angle triangle:
+4
+The Hypotenuse of the triangle with base 3.000000 and height 4.000000:
+5.000000
