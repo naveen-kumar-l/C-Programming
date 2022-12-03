@@ -1,0 +1,12 @@
+Naveen@Lankotu MINGW64 ~/CP
+$ gcc Program5_S20220010124.c -o out5
+
+Naveen@Lankotu MINGW64 ~/CP
+$ ./out5.exe
+
+A (5) Bitwse AND B (10): 0
+A (5) Bitwse OR B (10): 15
+B (10) Bitwse exclusive OR C (15): 5
+A (5) Left shift 2: 20
+B (10) Right shift 4: 0
+One's complement of C (15): -16

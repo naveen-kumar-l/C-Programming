@@ -1,0 +1,29 @@
+Naveen@Lankotu MINGW64 ~/CP
+$ gcc Program3_S20220010124.c -o out3
+
+Naveen@Lankotu MINGW64 ~/CP
+$ ./out3.exe
+
+Enter your a:
+4
+
+Enter your b:
+7
+
+Enter your c:
+5
+
+Your Values before execution:
+a = 4
+b = 7
+c = 5
+
+i. Pre-decrement of a: 3
+ii. Add the result of (i) to the post-decrement of c: 8
+iii. Pre-decrement of b: 6
+iv. Subtract the result of (iii) from the pre-increment of c: -1
+
+Your Values after execution:
+a = 3
+b = 6
+c = 5

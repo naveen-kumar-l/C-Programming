@@ -1,0 +1,23 @@
+Naveen@Lankotu MINGW64 ~/CP
+$ gcc Program2_S20220010124.c -o out2
+
+Naveen@Lankotu MINGW64 ~/CP
+$ ./out2.exe
+
+Enter your first Number:
+4
+
+Enter your second Number:
+3
+
+Enter your third Number:
+5
+
+Enter a number to subtract this from the sum of last three numbers you enters:
+2
+
+Sum of the numbers 4, 3 and 5:
+ 12
+
+Sub of the numbers 2 from the above sum 12:
+ 10

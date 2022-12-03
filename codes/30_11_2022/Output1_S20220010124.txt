@@ -1,0 +1,24 @@
+Naveen@Lankotu MINGW64 ~/CP
+$ gcc Program1_S20220010124.c -o out1
+
+Naveen@Lankotu MINGW64 ~/CP
+$ ./out1.exe
+
+Enter an integer value:
+3
+
+Enter an floating-point value:
+9.56
+
+Enter an character:
+n
+
+Enter a sting of lenght less than 13 characters:
+hello world
+
+You entered the following values
+Integer: 3
+Float: 9.560000
+Character: n
+String: hello world
+

@@ -1,0 +1,11 @@
+Naveen@Lankotu MINGW64 ~/CP
+$ gcc Program6_S20220010124.c -o out6
+
+Naveen@Lankotu MINGW64 ~/CP
+$ ./out6.exe
+
+Enter the height in meters from which you released ball:
+50
+
+Total distance travelled by the ball when it touches the ground for the third time is
+81.250000
