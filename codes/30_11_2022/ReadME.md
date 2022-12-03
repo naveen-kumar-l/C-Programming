@@ -66,4 +66,7 @@ h<sub>3</sub> = distance travelled in upward journey + distance travelled in dow
 
 Total distance travelled by the ball when it touches the ground for the third time is <br>
 h<sub>1</sub> + h<sub>2</sub> + h<sub>3</sub> <br>
-= h + h/2 + h/8
+= h + h/2 + h/8 <br><br>
+
+
+![physics concept](./image/physics%20concept.jpg)

@@ -1,3 +1,4 @@
+// © NAVEEN KUMAR
 #include <stdio.h> // importing some basic funcions like printf and scanf
 
 int a, b; // decleraing the dataType of a and b to integer

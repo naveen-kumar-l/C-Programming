@@ -1,3 +1,4 @@
+// © NAVEEN KUMAR
 #include <stdio.h> // importing some basic funcions like printf and scanf
 #include <math.h> // importing some basic funcions like pow and sqrt
 

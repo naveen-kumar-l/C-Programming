@@ -1,3 +1,4 @@
+// © NAVEEN KUMAR
 #include <stdio.h> // importing some basic funcions like printf and scanf
 
 float a, b, d, result; // declering the dataType of the required variable
