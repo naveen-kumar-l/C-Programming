@@ -1,0 +1,4 @@
+naveen@DESKTOP-0IHPLQJ:/mnt/c/Users/VL/Desktop/cp lab$ gcc Program1_S20220010124.c -o out1
+naveen@DESKTOP-0IHPLQJ:/mnt/c/Users/VL/Desktop/cp lab$ ./out1
+Enter an alphabet: n
+You entered 'n' which is a consonant.

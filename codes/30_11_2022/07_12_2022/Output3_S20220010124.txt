@@ -1,0 +1,6 @@
+naveen@DESKTOP-0IHPLQJ:/mnt/c/Users/VL/Desktop/cp lab$ gcc Program3_S20220010124.c -o out3 -lm
+naveen@DESKTOP-0IHPLQJ:/mnt/c/Users/VL/Desktop/cp lab$ ./out3
+Enter 'a' number: 2
+Enter 'b' number: 1
+Enter 'c' number: 4
+Value of (a^bc + b^ac + c^ab)^2: 1089

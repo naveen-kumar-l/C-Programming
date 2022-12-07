@@ -1,0 +1,9 @@
+naveen@DESKTOP-0IHPLQJ:/mnt/c/Users/VL/Desktop/cp lab$ gcc Program4_S20220010124.c -o out4
+naveen@DESKTOP-0IHPLQJ:/mnt/c/Users/VL/Desktop/cp lab$ ./out4 
+Enter your 1st subject marks: 96
+Enter your 2nd subject marks: 90
+Enter your 3rd subject marks: 94
+
+Your Total marks of three subjects: 280.00
+Your Average marks of three subjects: 93.33
+Your grade: 'O'

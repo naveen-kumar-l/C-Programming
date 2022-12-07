@@ -1,0 +1,8 @@
+naveen@DESKTOP-0IHPLQJ:/mnt/c/Users/VL/Desktop/cp lab$ gcc Program5_S20220010124.c -o out5
+naveen@DESKTOP-0IHPLQJ:/mnt/c/Users/VL/Desktop/cp lab$ ./out5 
+
+Enter the total number of Kilometers traveled: 50.5
+
+Total Fare: Rs. 432.30/-
+Base Fare: Rs. 393.00/-
+Service charges: Rs. 39.30/-
