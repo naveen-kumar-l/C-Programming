@@ -1,0 +1,4 @@
+naveen@DESKTOP-J3N5JS4:~/CP/Lab4$ gcc Program4_S20220010124.c -o out4
+naveen@DESKTOP-J3N5JS4:~/CP/Lab4$ ./out4
+Enter a number: 123
+The sum of digits of your number: 6

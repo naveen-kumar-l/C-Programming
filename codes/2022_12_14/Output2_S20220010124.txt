@@ -1,0 +1,4 @@
+naveen@DESKTOP-J3N5JS4:~/CP/Lab4$ gcc Program2_S20220010124.c -o out2
+naveen@DESKTOP-J3N5JS4:~/CP/Lab4$ ./out2
+Enter a number n to get the nth number of Fibonacci series: 10
+F10: 55

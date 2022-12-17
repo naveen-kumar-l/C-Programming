@@ -1,0 +1,8 @@
+naveen@DESKTOP-J3N5JS4:~/CP/Lab4$ gcc Program1_S20220010124.c -o out1
+naveen@DESKTOP-J3N5JS4:~/CP/Lab4$ ./out1 
+Enter a string of atmost 10 char: hello                  
+world
+
+Printing Your input in a reverse way:
+lrow
+olle

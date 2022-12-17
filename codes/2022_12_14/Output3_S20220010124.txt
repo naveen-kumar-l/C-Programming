@@ -1,0 +1,20 @@
+naveen@DESKTOP-J3N5JS4:~/CP/Lab4$ gcc Program3_S20220010124.c -o out3
+naveen@DESKTOP-J3N5JS4:~/CP/Lab4$ ./out3
+Enter 10 numbers:
+23
+3
+1
+5
+2
+55
+80
+22
+74
+4
+
+Your unsorted array: (23, 3, 1, 5, 2, 55, 80, 22, 74, 4)
+Your sorted array: (1, 2, 3, 4, 5, 22, 23, 55, 74, 80)
+
+
+Total no of Comparisions: 45
+Total no of Swaps: 7
