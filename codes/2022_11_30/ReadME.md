@@ -68,5 +68,4 @@ Total distance travelled by the ball when it touches the ground for the third ti
 h<sub>1</sub> + h<sub>2</sub> + h<sub>3</sub> <br>
 = h + h/2 + h/8 <br><br>
 
-
-![physics concept](https://raw.githubusercontent.com/naveen-kumar-l/C-Programming/main/codes/2022_11_30/image/physics%20concept.jpg)
+[![physics-concept](https://shotcan.com/images/physics-concept64d3a99ede6844d7.jpg)](./image/physics%20concept.jpg)
