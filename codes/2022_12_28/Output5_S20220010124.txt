@@ -1,0 +1,7 @@
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ gcc Program5_S20220010124.c -o out5
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ ./out5
+
+Enter a string of atleast 8 characters and atmost 24 characters: hello i am mello
+
+Enter a string of atleast 1 characters and atmost 4 characters: l
+No of times ss is occurring as a subsequence in bs: 4

@@ -1,0 +1,22 @@
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ gcc Program2_S20220010124.c -o out2
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ ./out1 
+Enter a string of atmost 10 char: ^C
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ ./out2
+Enter 10 numbers:
+2
+70
+55
+45
+56
+23
+54
+34
+76
+12
+
+Your unsorted array: (2, 70, 55, 45, 56, 23, 54, 34, 76, 12)
+Your sorted array: (2, 12, 23, 34, 45, 54, 55, 56, 70, 76)
+
+
+Total no of Comparisions: 45
+Total no of Swaps: 6

@@ -1,0 +1,37 @@
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ gcc Program4_S20220010124.c -o out4
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ ./out4
+Enter the (1, 1) element: 1
+Enter the (1, 2) element: 2
+Enter the (1, 3) element: 3
+Enter the (2, 1) element: 4
+Enter the (2, 2) element: 5
+Enter the (2, 3) element: 6
+Enter the (3, 1) element: 7
+Enter the (3, 2) element: 8
+Enter the (3, 3) element: 8
+Your matrix:
+1.00  2.00  3.00  
+4.00  5.00  6.00  
+7.00  8.00  8.00  
+
+Determinet: 3.00
+
+Minor Matrix of your given matrix:
+-8.00  -10.00  -3.00  
+-8.00  -13.00  -6.00  
+-3.00  -6.00  -3.00  
+
+Co-Factor Matrix of your given matrix:
+-8.00  10.00  -3.00  
+8.00  -13.00  6.00  
+-3.00  6.00  -3.00  
+
+Adjoint Matrix of your given matrix:
+-8.00  8.00  -3.00  
+10.00  -13.00  6.00  
+-3.00  6.00  -3.00  
+
+Inverse of the given matrix is: 
+-2.67  2.67  -1.00  
+3.33  -4.33  2.00  
+-1.00  2.00  -1.00  

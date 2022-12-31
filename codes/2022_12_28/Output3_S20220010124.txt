@@ -1,0 +1,7 @@
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ gcc Program3_S20220010124.c -lm -o out3
+naveen@DESKTOP-J3N5JS4:~/CP/Lab5$ ./out3
+Enter the X-Coordinate: 40
+Enter the Y-Coordinate: 45
+
+Your nearest point is: (34, 51)
+The shortest distance is 8.49
